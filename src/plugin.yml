@@ -1,0 +1,16 @@
+name: 3ssentials
+version: 0.01
+author: hehh
+main: ca.hehh.3ssentials.Main
+commands:
+  gamemode:
+    aliases: [gamemode]
+    description: Change your own gamemode.
+  gmc:
+    description: Change your own gamemode to creative.
+  gms:
+    description: Change your own gamemode to survival.
+  gma:
+    description: Change your own gamemode to adventure.
+  gmsp:
+    description: Change your own gamemode to spectator.
